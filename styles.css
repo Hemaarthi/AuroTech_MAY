@@ -1,0 +1,37 @@
+body {
+background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%),url("https://png.pngtree.com/thumb_back/fh260/background/20230329/pngtree-birthday-cake-image_2121166.jpg"); 
+background-repeat:no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+.left-center {
+  padding-left: 70px; 
+  padding-top: 250px;
+  text-align:left;
+  color: lavender;
+  text-decoration-thickness:auto;
+  text-shadow: 2px 2px 5px rgb(243, 183, 183);
+}
+.nav-link:hover {
+  color: rgb(253, 1, 1); 
+  text-decoration: underline;
+}
+/* Custom Navbar Background Color */
+.custom-navbar {
+  background-color: #a5b6b8; /* Light blue color */
+}
+
+/* Optional: Change navbar link color for contrast */
+.custom-navbar .nav-link {
+  color: white;
+}
+
+/* Change text color on hover for additional effect */
+.custom-navbar .nav-link:hover {
+  color: #000000; /* Orange color on hover */
+}
+
+.footer1{
+  background-color: #a5b6b8;
+  text-align:center ;
+}
